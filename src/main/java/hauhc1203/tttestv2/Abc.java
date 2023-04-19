@@ -5,6 +5,7 @@ public class Abc {
     private String devField1;
     private String devField2;
     private String f1;
+    private String f2;
 
 
 }
