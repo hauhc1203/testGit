@@ -6,6 +6,7 @@ public class Abc {
     private String devField2;
     private String f1;
     private String f2;
+    private String f22;
 
 
 }
