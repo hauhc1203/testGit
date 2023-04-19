@@ -4,8 +4,7 @@ public class Abc {
     private String masterField;
     private String devField1;
     private String devField2;
-    private String f1;
-    private String f2;
+    private String f21;
 
 
 }
